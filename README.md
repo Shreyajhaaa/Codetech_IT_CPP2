@@ -110,4 +110,4 @@ Conclusion
 
 The Multithreaded File Compression Tool demonstrates the power of C++ multithreading and zlib compression for efficient file management. This project is a great example of how parallel processing can significantly improve the performance of time-consuming tasks.
 
-OUTPUT
+OUTPUT:![Image](https://github.com/user-attachments/assets/7ae2734e-657e-4975-a141-7ba69a10963a)
